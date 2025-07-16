@@ -1,0 +1,9 @@
+{
+  "chainId": 101,
+  "address": "ABveRNKgY3cggHGvmxwXbGvdjUoMaudCCWbhD9qDpump",
+  "symbol": "BITE",
+  "name": "Bitecoinreal",
+  "decimals": 6,
+  "logoURI": "https://raw.githubusercontent.com/bitecoinreal/token-list/main/assets/mainnet/ABveRNKgY3cggHGvmxwXbGvdjUoMaudCCWbhD9qDpump/logo.png",
+  "tags": ["meme", "community", "bitecoin"]
+}
